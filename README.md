@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Seb
-- 👀 I’m interested in web dev, technology, history and art
+- 👀 I’m interested in web dev, technology, history, cycling and jazz
 - 🌱 I’m currently learning React
 - 📫 How to reach me? Drop me an email on sebwilczega@gmail.com
 
